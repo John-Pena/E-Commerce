@@ -22,6 +22,11 @@ Git clone the repository into your preferred location on your PC. Open the root 
 
 ## Usage
 This application is used inside the root terminal of the repository. Routes are tested inisde of Insomnia using http://localhost to test all routes.
+https://drive.google.com/file/d/17HWcggVk4sv1DP3x3AgmIw0r0FpV0nHt/view
+https://drive.google.com/file/d/165iPLfmxIT22-udAPV-sc0os8DGuUwV_/view
+https://drive.google.com/file/d/1j76Akz-ZBqVA0BPJSFj3uZd7na9pmPb0/view
+https://drive.google.com/file/d/1L_3VwSa45N0TpxlrSAcY8VMMLYvWidh2/view
+
 
 ## Test
 Open your terminal, and open up your MySQL database inside the terminal and source the name of th database (ecommerce_db). Ensure you USE ecommerce_db. Exit MySQL terminal. Make sure you have seed inserted in your package.json for the next step. Run npm run seed sinde the terminal. This will seed all the data to the database. Run npm start to boot up the server. Open up Insomnia and test the API routes.
